@@ -12,6 +12,9 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/daz72/dz-midgard-campaign",
+  "download": "https://github.com/daz72/dz-midgard-campaign/archive/0.1.0.zip",
+  "manifest": "https://github.com/daz72/dz-midgard-campaign/releases/latest/download/module.json",
   "packs": [
     {
       "name": "scenes",
