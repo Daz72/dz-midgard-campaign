@@ -1,0 +1,7 @@
+2024/08/15-23:00:05.634 1a18 Recovering log #54
+2024/08/15-23:00:05.641 1a18 Delete type=0 #54
+2024/08/15-23:00:05.641 1a18 Delete type=3 #52
+2024/08/15-23:00:55.210 73bc Level-0 table #59: started
+2024/08/15-23:00:55.210 73bc Level-0 table #59: 0 bytes OK
+2024/08/15-23:00:55.212 73bc Delete type=0 #57
+2024/08/15-23:00:55.213 73bc Manual compaction at level-0 from '!folders!4sRacjZ7R1xydiDD' @ 72057594037927935 : 1 .. '!scenes!YoGE4m0HsMpZ5Jo7' @ 0 : 0; will stop at (end)
