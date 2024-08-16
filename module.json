@@ -1,7 +1,7 @@
 {
   "id": "dz-midgard-campaign",
   "title": "DZ Midgard Campaign",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
