@@ -1,7 +1,7 @@
 {
   "id": "dz-midgard-campaign",
   "title": "DZ Midgard Campaign",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -13,7 +13,7 @@
     }
   ],
   "url": "https://github.com/daz72/dz-midgard-campaign",
-  "download": "https://github.com/daz72/dz-midgard-campaign/archive/0.8.2.zip",
+  "download": "https://github.com/daz72/dz-midgard-campaign/archive/0.8.3.zip",
   "manifest": "https://github.com/daz72/dz-midgard-campaign/releases/latest/download/module.json",
   "packs": [
     {
