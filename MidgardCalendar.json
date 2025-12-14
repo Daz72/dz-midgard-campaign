@@ -1,0 +1,257 @@
+{
+  "id": "midgard",
+  "translations": {
+    "en": {
+      "label": "Midgard Calendar",
+      "description": "Months and days of the Midgard calendar",
+      "setting": "Midgard"
+    }
+  },
+
+  "sources": [
+    {
+      "citation": "User-supplied: Midgard Worldbook, Kobold Press",
+      "notes": "Provided by D Zai 2025-12-07"
+    }
+  ],
+
+  "year": {
+    "epoch": 0,
+    "currentYear": 1750,
+    "prefix": "",
+    "suffix": "OC",
+    "startDay": 1
+  },
+
+  "leapYear": {
+    "rule": "none",
+    "month": "Springmelt",
+    "interval": 4,
+    "extraDays": 1
+  },
+ 
+
+  "months": [
+    {
+      "name": "Springmelt",
+      "abbreviation": "Spr",
+      "days": 30,
+      "description": "Start of the new year"
+    },
+    {
+      "name": "Sowing",
+      "abbreviation": "Sow",
+      "days": 30,
+      "description": "With the thawing of the land the crops need to be sowed"
+    },
+    {
+      "name": "Thunders",
+      "abbreviation": "Thu",
+      "days": 30,
+      "description": "Month of opening buds and fresh growth"
+    },
+    {
+      "name": "Goldflower",
+      "abbreviation": "Gold",
+      "days": 30,
+      "description": "Start of summer"
+    },
+    {
+      "name": "Low Summer",
+      "abbreviation": "Low",
+      "days": 30,
+      "description": "A quiet lull as the days grow longer"
+    },
+    {
+      "name": "High Summer",
+      "abbreviation": "High",
+      "days": 30,
+      "description": "The days are long and the nights are short in the northern lands"
+    },
+    {
+      "name": "Harvest Tide",
+      "abbreviation": "Harv",
+      "days": 30,
+      "description": "Time to begin harvesting"
+    },
+    {
+      "name": "Redleaf",
+      "abbreviation": "Red",
+      "days": 30,
+      "description": "Fill the storehouses and prepare for winter"
+    },
+    {
+      "name": "Last Leaf",
+      "abbreviation": "Last",
+      "days": 30,
+      "description": "The days grow shorter and the nights grow longer"
+    },
+    {
+      "name": "Rimetrail",
+      "abbreviation": "Rime",
+      "days": 30,
+      "description": "The winter winds arrive"
+    },
+    {
+      "name": "Snowfall",
+      "abbreviation": "Snow",
+      "days": 30,
+      "description": "In the northern lands snow blankets the land"
+    },
+    {
+      "name": "Deep Winter",
+      "abbreviation": "Deep",
+      "days": 30,
+      "description": "Long nights and short days under a blanket of snow"
+    }
+  ],
+
+  "weekdays": [
+    {
+      "name": "Moonday",
+      "abbreviation": "Moon",
+      "description": "Day of rest and worship in many cultures"
+    },
+    {
+      "name": "Volsday",
+      "abbreviation": "Vol",
+      "description": "Beginning of the work week"
+    },
+    {
+      "name": "Wolfsday",
+      "abbreviation": "Wolf",
+      "description": "Named after Tyr, Norse god of war"
+    },
+    {
+      "name": "Torsday",
+      "abbreviation": "Tor",
+      "description": "Named after Woden (Odin), chief Norse god"
+    },
+    {
+      "name": "Marksday",
+      "abbreviation": "Mark",
+      "description": "Named after Thor, Norse god of thunder"
+    },
+    {
+      "name": "Ceresday",
+      "abbreviation": "Cer",
+      "description": "Named after Frigg, Norse goddess of love"
+    },
+    {
+      "name": "Khorsday",
+      "abbreviation": "Khor",
+      "description": "Named after Saturn, Roman god of agriculture"
+    }
+  ],
+
+  "intercalary": [],
+
+  "seasons": [
+    {
+      "name": "Winter",
+      "startMonth": 10,
+      "endMonth": 12,
+      "icon": "winter",
+      "description": "The cold season in the northern hemisphere when days are short and temperatures are low.",
+      "sunrise": "07:00",
+      "sunset": "16:45"
+    },
+    {
+      "name": "Spring",
+      "startMonth": 1,
+      "endMonth": 3,
+      "icon": "spring",
+      "description": "The season of renewal when plants begin to grow and temperatures warm.",
+      "sunrise": "06:30",
+      "sunset": "17:45"
+    },
+    {
+      "name": "Summer",
+      "startMonth": 4,
+      "endMonth": 6,
+      "icon": "summer",
+      "description": "The warmest season with long days and high temperatures in the northern hemisphere.",
+      "sunrise": "05:45",
+      "sunset": "20:15"
+    },
+    {
+      "name": "Autumn",
+      "startMonth": 7,
+      "endMonth": 9,
+      "icon": "fall",
+      "description": "The harvest season when leaves change color and temperatures begin to cool.",
+      "sunrise": "06:30",
+      "sunset": "19:30"
+    }
+  ],
+  "time": {
+    "hoursInDay": 24,
+    "minutesInHour": 60,
+    "secondsInMinute": 60
+  },
+
+  "moons": [
+    {
+      "name": "Luna",
+      "cycleLength": 29.53059,
+      "firstNewMoon": { "year": 2024, "month": 1, "day": 11 },
+      "phases": [
+        { "name": "New Moon", "length": 1, "singleDay": true, "icon": "new" },
+        {
+          "name": "Waxing Crescent",
+          "length": 6.3826475,
+          "singleDay": false,
+          "icon": "waxing-crescent"
+        },
+        { "name": "First Quarter", "length": 1, "singleDay": true, "icon": "first-quarter" },
+        {
+          "name": "Waxing Gibbous",
+          "length": 6.3826475,
+          "singleDay": false,
+          "icon": "waxing-gibbous"
+        },
+        { "name": "Full Moon", "length": 1, "singleDay": true, "icon": "full" },
+        {
+          "name": "Waning Gibbous",
+          "length": 6.3826475,
+          "singleDay": false,
+          "icon": "waning-gibbous"
+        },
+        { "name": "Last Quarter", "length": 1, "singleDay": true, "icon": "last-quarter" },
+        {
+          "name": "Waning Crescent",
+          "length": 6.3826475,
+          "singleDay": false,
+          "icon": "waning-crescent"
+        }
+      ],
+      "color": "#f0f0f0",
+      "translations": {
+        "en": {
+          "description": "Earth's moon, following a 29.5-day synodic cycle with eight traditional phases"
+        }
+      }
+    }
+  ],
+
+  "events": [
+    {
+      "id": "new-year",
+      "name": "New Year's Day",
+      "description": "Celebration of the start of the new year",
+      "recurrence": { "type": "fixed", "month": 1, "day": 1 },
+      "visibility": "player-visible",
+      "color": "#4CAF50",
+      "icon": "fas fa-champagne-glasses"
+    },
+    {
+      "id": "gm-planning-day",
+      "name": "GM Planning Session",
+      "description": "Monthly reminder for game masters to plan upcoming sessions",
+      "recurrence": { "type": "ordinal", "month": 1, "occurrence": 1, "weekday": 0 },
+      "visibility": "gm-only",
+      "color": "#9E9E9E",
+      "icon": "fas fa-clipboard-list"
+    }
+  ]
+}
