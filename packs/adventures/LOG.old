@@ -1,24 +1,5 @@
-2026/01/18-22:21:35.157 7828 Recovering log #1126
-2026/01/18-22:21:35.178 7828 Level-0 table #1129: started
-2026/01/18-22:21:35.193 7828 Level-0 table #1129: 1233128 bytes OK
-2026/01/18-22:21:35.208 7828 Delete type=0 #1126
-2026/01/18-22:21:35.208 7828 Delete type=3 #1123
-2026/01/18-22:21:58.037 3194 Level-0 table #1132: started
-2026/01/18-22:21:58.037 3194 Level-0 table #1132: 0 bytes OK
-2026/01/18-22:21:58.041 3194 Delete type=0 #1130
-2026/01/18-22:21:58.041 3194 Manual compaction at level-0 from '!adventures!FhaV8diy48lweLKl' @ 72057594037927935 : 1 .. '!adventures!FhaV8diy48lweLKl' @ 0 : 0; will stop at '!adventures!FhaV8diy48lweLKl' @ 102 : 1
-2026/01/18-22:21:58.041 3194 Compacting 1@0 + 1@1 files
-2026/01/18-22:21:58.062 3194 Generated table #1133@0: 1 keys, 1233128 bytes
-2026/01/18-22:21:58.062 3194 Compacted 1@0 + 1@1 files => 1233128 bytes
-2026/01/18-22:21:58.062 3194 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/01/18-22:21:58.062 3194 Delete type=2 #1127
-2026/01/18-22:21:58.062 3194 Delete type=2 #1129
-2026/01/18-22:21:58.062 3194 Manual compaction at level-0 from '!adventures!FhaV8diy48lweLKl' @ 102 : 1 .. '!adventures!FhaV8diy48lweLKl' @ 0 : 0; will stop at (end)
-2026/01/18-22:21:58.062 3194 Manual compaction at level-1 from '!adventures!FhaV8diy48lweLKl' @ 72057594037927935 : 1 .. '!adventures!FhaV8diy48lweLKl' @ 0 : 0; will stop at '!adventures!FhaV8diy48lweLKl' @ 102 : 1
-2026/01/18-22:21:58.062 3194 Compacting 1@1 + 1@2 files
-2026/01/18-22:21:58.082 3194 Generated table #1134@1: 1 keys, 1233128 bytes
-2026/01/18-22:21:58.082 3194 Compacted 1@1 + 1@2 files => 1233128 bytes
-2026/01/18-22:21:58.086 3194 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/18-22:21:58.086 3194 Delete type=2 #1125
-2026/01/18-22:21:58.086 3194 Delete type=2 #1133
-2026/01/18-22:21:58.086 3194 Manual compaction at level-1 from '!adventures!FhaV8diy48lweLKl' @ 102 : 1 .. '!adventures!FhaV8diy48lweLKl' @ 0 : 0; will stop at (end)
+2026/01/25-11:44:36.646 3490 Recovering log #1136
+2026/01/25-11:44:36.661 3490 Level-0 table #1138: started
+2026/01/25-11:44:36.674 3490 Level-0 table #1138: 1280543 bytes OK
+2026/01/25-11:44:36.680 3490 Delete type=0 #1136
+2026/01/25-11:44:36.681 3490 Delete type=3 #1135
