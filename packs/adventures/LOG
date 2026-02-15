@@ -1,9 +1,9 @@
-2026/02/09-00:21:16.543 1908 Recovering log #1144
-2026/02/09-00:21:16.549 1908 Delete type=0 #1144
-2026/02/09-00:21:16.549 1908 Delete type=3 #1142
-2026/02/09-00:22:37.290 d2bc Compacting 1@0 + 1@1 files
-2026/02/09-00:22:37.314 d2bc Generated table #1147@0: 1 keys, 1286357 bytes
-2026/02/09-00:22:37.314 d2bc Compacted 1@0 + 1@1 files => 1286357 bytes
-2026/02/09-00:22:37.315 d2bc compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/09-00:22:37.316 d2bc Delete type=2 #1138
-2026/02/09-00:22:37.316 d2bc Delete type=2 #1143
+2026/02/15-20:15:51.905 6acc Recovering log #1154
+2026/02/15-20:15:51.910 6acc Delete type=0 #1154
+2026/02/15-20:15:51.910 6acc Delete type=3 #1153
+2026/02/16-00:31:24.800 6c44 Compacting 1@0 + 1@1 files
+2026/02/16-00:31:24.832 6c44 Generated table #1157@0: 1 keys, 1293061 bytes
+2026/02/16-00:31:24.832 6c44 Compacted 1@0 + 1@1 files => 1293061 bytes
+2026/02/16-00:31:24.834 6c44 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/16-00:31:24.834 6c44 Delete type=2 #1147
+2026/02/16-00:31:24.834 6c44 Delete type=2 #1149
